@@ -1,0 +1,1 @@
+taskkill /f /im wps.exe /im wpscenter.exe /im YoudaoNote.exe /im DocToPDF.exe /im QQBrowser.exe /im MicrosoftEdge.exe /im MicrosoftEdgeCP.exe /im QQPCSoftMgr.exe /im baidunetdisk.exe /im baidunetdiskhost.exe /im YoudaoDictHelper.exe /im mailmaster.exe
